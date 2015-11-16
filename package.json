@@ -1,0 +1,19 @@
+{
+  "name": "TechTalksMsg",
+  "namelower": "tech-talks-msg",
+  "version": "0.0.1",
+  "description": "Training material (examples) for Tech Talks msg",
+  "main": "example1.js",
+  "readme": "README.md",
+  "author": "RobyRodriguez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roby-rodriguez/tech-talks-msg.git"
+  },
+  "devDependencies": {
+    "express" : "*"
+  },
+  "scripts": {
+    //"postinstall": "bower install"
+  }
+}
