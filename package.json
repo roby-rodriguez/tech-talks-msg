@@ -11,9 +11,9 @@
     "url": "https://github.com/roby-rodriguez/tech-talks-msg.git"
   },
   "devDependencies": {
-    "express" : "*"
+    "express" : "*",
+    "body-parser" : "*"
   },
   "scripts": {
-    //"postinstall": "bower install"
   }
 }

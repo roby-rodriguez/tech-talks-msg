@@ -1,6 +1,11 @@
 var http = require("http"),
     fs = require('fs');
 
+/**
+ * Request-response with reading a file in node
+ * Bonus: how to create and avoid a server crash
+ */
+
 var sampleHtmlPath = './resources/sample2.html';
 // using the following line instead will result in throwing an unhandled exception, thus server crash
 //var sampleHtmlPath = './resources/sample2.html';
